@@ -8,14 +8,14 @@
 
 # 📚 List
 
-## JAVA
+### JAVA
 
-## Spring
+### Spring
 
-## Database
+### Database
 
-## Network
+### Network
 
-## AlgorithM/자료구조
+### AlgorithM/자료구조
 
-## 프로그래밍 공통 
+### 프로그래밍 공통 
