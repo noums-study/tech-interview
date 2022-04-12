@@ -14,7 +14,8 @@
 
 ## Spring
 - [DI, IoC(의존성 주입, 제어의 반전)](/spring/DI_IOC.md)
-
+- [의존성 주입 방법 3가지](/spring/3_ways_to_DI.md)
+- [Bean 생명주기](/spring/bean_lifecycle.md)
 ## Database
 
 <br/>
